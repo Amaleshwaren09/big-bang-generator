@@ -1,6 +1,6 @@
 Big Bang Generator
 
-This project generates an array of numbers from 1 to 11, replacing certain number with words according to the question:
+This project generates an array of numbers from 1 to 100, replacing certain number with words according to the question:
 - numbers that is divisible by 3 should be replaced with BIG
 - numbers that is divisible by 5 should be replaced with BANG
 - numbers that is divisible by 3 and 5 should be replaced with BIGBANG
